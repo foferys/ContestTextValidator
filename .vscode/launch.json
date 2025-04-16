@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ContestTextAnalyzerApplication<contest-text-analyzer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.contesttextanalyzer.ContestTextAnalyzerApplication",
+            "projectName": "contest-text-analyzer",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
